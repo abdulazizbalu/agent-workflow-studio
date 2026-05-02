@@ -1,0 +1,13 @@
+:root {
+  --bg: #020617;
+  --bg-elev: rgba(255, 255, 255, 0.045);
+  --border: rgba(229, 242, 255, 0.10);
+  --text: #e5f2ff;
+  --text-muted: #b9c6d6;
+  --accent: #22d3ee;
+  --accent-warm: #f59e0b;
+  --radius: 8px;
+  --font: Inter, "Segoe UI", Arial, sans-serif;
+}
+body { margin: 0; color: var(--text); background: var(--bg); font-family: var(--font); }
+
